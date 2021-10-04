@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Open Sky des</string>
+    <string name="tests1">Tests</string>
+    <string name="tests2">Tests</string>
+    <string name="tests3">Tests</string>
+    <string name="tests4">Tests</string>
+    <string name="menu">Menu</string>
+    <string name="articles">Articles</string>
+    <string name="calendar">Calendar</string>
+    <string name="settings">Settings</string>
+    <string name="tests5">Tests</string>
+    <string name="what_do_you_know_about_the_solar_system">What do you know about the solar system?</string>
+    <string name="guess_the_constellation">Guess the constellation!</string>
+    <string name="level_hard">Level: Hard</string>
+    <string name="level_medium">Level: Medium</string>
+    <string name="level_easy">Level: Easy</string>
+    <string name="testsone">testsone</string>
+    <string name="testlogo">TestLogo</string>
+    <string name="tests">Tests</string>
+</resources>
